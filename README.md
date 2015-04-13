@@ -49,10 +49,10 @@
 
 # Introduction<a id="sec-1"></a>
 
-This is the repo for Github Workshop, Spring 2015, you have to add a
+This is the repo for Github CISSD Workshop, Spring 2015, you have to add a
 directory and upload a picture of your face.
 
-This is the README file for homework #1.  Everyone is going to create
+This is the README file for the repo.  Everyone is going to create
 a fork of this repository and create a directory whose name is
 
 `firstName_lastName`
