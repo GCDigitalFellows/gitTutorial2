@@ -35,3 +35,6 @@ tramp
 # AUCTeX auto folder
 /auto/
 /.project
+
+#ds_store
+.DS_Store
